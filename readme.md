@@ -7,7 +7,7 @@ DSA 2022
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="https://public.tableau.com/views/Compfest/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Tableau</a> •
+  <a href="https://public.tableau.com/app/profile/rakha.wiratama/viz/DSACompfest/Dashboard2?publish=yes">Tableau</a> •
   <a href="https://docs.google.com/presentation/d/1jfQ9_wdmBL73eSK0FWBz0RHuX_49GzG6twx49t2yMNw/edit?usp=sharing">Slides</a> •
   <a href="#credits">Credits</a> •
   <a href="#footnote">Footnote</a> 
@@ -17,7 +17,7 @@ DSA 2022
 Eksplorasi data berbasis python notebook untuk mencari tahu apa sebenarnya penyebab kemiskinan? Apakah bencana termasuk salah satunya?
 
 [Link Slides](https://drive.google.com/drive/folders/13A3aBP8vlaaXcbQAyPenP2MQY5thtNau?usp=sharing)<br>
-[Link Tableau](https://public.tableau.com/views/Compfest/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link Tableau](https://public.tableau.com/app/profile/rakha.wiratama/viz/DSACompfest/Dashboard2?publish=yes)
 
 ## Credits
 <table>
