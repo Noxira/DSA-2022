@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 DSA 2022
   <br>
@@ -18,8 +16,9 @@ DSA 2022
 ## Description
 Eksplorasi data berbasis python notebook untuk mencari tahu apa sebenarnya penyebab kemiskinan? Apakah bencana termasuk salah satunya?
 
-[Link Slides](https://drive.google.com/drive/folders/13A3aBP8vlaaXcbQAyPenP2MQY5thtNau?usp=sharing)
+[Link Slides](https://drive.google.com/drive/folders/13A3aBP8vlaaXcbQAyPenP2MQY5thtNau?usp=sharing)<\br>
 [Link Tableau](https://public.tableau.com/views/Compfest/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Credits
 <table>
     <tr>
@@ -36,6 +35,4 @@ Eksplorasi data berbasis python notebook untuk mencari tahu apa sebenarnya penye
 </table>
 
 ## Footnote
-Dataset didapat dari [Open Data Jabar](https://opendata.jabarprov.go.id/id) serta Peta Bencana
-
-
+Dataset didapat dari [Open Data Jabar](https://opendata.jabarprov.go.id/id), [BPS](https://bps.go.id/), serta [Peta Bencana](https://petabencana.id/)
